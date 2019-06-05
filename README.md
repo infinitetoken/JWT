@@ -39,8 +39,7 @@ do {
 
     print(token.payload.iss) // "Example"
     print(token.payload.sub) // "1234567890"
-
-    XCTAssertEqual(token.payload.claims["name"] as? String, "John Doe")
+    print(token.payload.claims["name"] as? String) // "John Doe"
 } catch {
     print(error.localizedDescription)
 }
