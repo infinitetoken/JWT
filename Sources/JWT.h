@@ -6,7 +6,7 @@
 //  Copyright © 2019 Infinite Token. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+@import Foundation;
 
 //! Project version number for JWT.
 FOUNDATION_EXPORT double JWTVersionNumber;
