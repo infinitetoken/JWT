@@ -16,6 +16,9 @@
 		F0890C5122A845B40082C922 /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0890C4F22A845B40082C922 /* JWT.swift */; };
 		F0890C5222A845B40082C922 /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0890C4F22A845B40082C922 /* JWT.swift */; };
 		F0890C5322A845B40082C922 /* JWT.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0890C4F22A845B40082C922 /* JWT.swift */; };
+		F0890C5422A846CA0082C922 /* JWT.h in Headers */ = {isa = PBXBuildFile; fileRef = F0890BEC22A842620082C922 /* JWT.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F0890C5522A846CB0082C922 /* JWT.h in Headers */ = {isa = PBXBuildFile; fileRef = F0890BEC22A842620082C922 /* JWT.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F0890C5622A846CC0082C922 /* JWT.h in Headers */ = {isa = PBXBuildFile; fileRef = F0890BEC22A842620082C922 /* JWT.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -192,6 +195,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0890C5422A846CA0082C922 /* JWT.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,6 +203,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0890C5522A846CB0082C922 /* JWT.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -206,6 +211,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0890C5622A846CC0082C922 /* JWT.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
