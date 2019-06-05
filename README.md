@@ -2,7 +2,7 @@
 
 [![Carthage](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-JWT is a Swift library for JSON Web Tokens!
+JWT is a Swift library for decoding JSON Web Tokens
 
 - [Installation](#installation)
 - [Usage](#usage)
