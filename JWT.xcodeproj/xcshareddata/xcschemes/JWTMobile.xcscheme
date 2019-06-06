@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F0890C0722A8427F0082C922"
-               BuildableName = "JWTMobile.framework"
+               BuildableName = "JWT.framework"
                BlueprintName = "JWTMobile"
                ReferencedContainer = "container:JWT.xcodeproj">
             </BuildableReference>
@@ -44,7 +44,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F0890C0722A8427F0082C922"
-            BuildableName = "JWTMobile.framework"
+            BuildableName = "JWT.framework"
             BlueprintName = "JWTMobile"
             ReferencedContainer = "container:JWT.xcodeproj">
          </BuildableReference>
@@ -66,7 +66,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F0890C0722A8427F0082C922"
-            BuildableName = "JWTMobile.framework"
+            BuildableName = "JWT.framework"
             BlueprintName = "JWTMobile"
             ReferencedContainer = "container:JWT.xcodeproj">
          </BuildableReference>
@@ -84,7 +84,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F0890C0722A8427F0082C922"
-            BuildableName = "JWTMobile.framework"
+            BuildableName = "JWT.framework"
             BlueprintName = "JWTMobile"
             ReferencedContainer = "container:JWT.xcodeproj">
          </BuildableReference>

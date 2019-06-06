@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F0890C3F22A842A20082C922"
-               BuildableName = "JWTWatch.framework"
+               BuildableName = "JWT.framework"
                BlueprintName = "JWTWatch"
                ReferencedContainer = "container:JWT.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F0890C3F22A842A20082C922"
-            BuildableName = "JWTWatch.framework"
+            BuildableName = "JWT.framework"
             BlueprintName = "JWTWatch"
             ReferencedContainer = "container:JWT.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F0890C3F22A842A20082C922"
-            BuildableName = "JWTWatch.framework"
+            BuildableName = "JWT.framework"
             BlueprintName = "JWTWatch"
             ReferencedContainer = "container:JWT.xcodeproj">
          </BuildableReference>
