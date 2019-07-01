@@ -1,4 +1,4 @@
-// swift-tools-version:5.0
+// swift-tools-version:5.1
 //
 //  Package.swift
 //  Arcade
@@ -30,7 +30,6 @@ let package = Package(
             name: "JWTTests",
             dependencies: ["JWT"],
             path: "Tests"),
-    ],
-    swiftLanguageVersions: [.v5]
+    ]
 )
 
