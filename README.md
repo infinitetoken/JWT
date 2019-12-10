@@ -2,8 +2,21 @@
 
 JWT is a Swift library for decoding JSON Web Tokens
 
+- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+
+## Installation
+
+JWT can be installed using the Swift Package Manager. Add the following to your `Package.swift` file:
+
+```swift
+
+dependencies: [
+    .Package(url: "https://github.com/infinitetoken/JWT.git", from: "2.0.0")
+]
+
+```
 
 ## Usage
 
